@@ -1,0 +1,4 @@
+version_control: github
+src_repo: clalancette/pycdlib
+tag_prefix: ^v
+separator: .
